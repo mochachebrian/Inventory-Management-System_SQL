@@ -6,10 +6,11 @@ This project is a simple Inventory Management System developed using SQL. The sy
 Database Schema
 Created a database schema named InventoryDB with tables:
 
-Products: Columns include ProductID, ProductName, CategoryID, UnitPrice, UnitsInStock.
-Categories: Columns include CategoryID, CategoryName.
-Sales: Columns include SaleID, ProductID, SaleDate, QuantitySold.
-Data Population
+1. Products: Columns include ProductID, ProductName, CategoryID, UnitPrice, UnitsInStock.
+2. Categories: Columns include CategoryID, CategoryName.
+3. Sales: Columns include SaleID, ProductID, SaleDate, QuantitySold.
+
+# Data Population
 Inserted sample data into the Products and Categories tables for testing purposes.
 
 # Basic Operations
